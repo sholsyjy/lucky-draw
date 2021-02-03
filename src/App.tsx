@@ -8,7 +8,6 @@ const presentList = ["迎春奖", "牛气奖", "凌峰奖", "宏运来红包奖"
 
 const App: React.FC = () => {
 
-  const i = 0;
   const [now, setNow] = useState(0);
   const [isBegin, setBegin] = useState(false);
   const [present, setPresent] = useState(0);
