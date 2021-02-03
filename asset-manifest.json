@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/lucky-draw/static/css/main.baefc8a9.chunk.css",
+    "main.js": "/lucky-draw/static/js/main.cb6e28ea.chunk.js",
+    "main.js.map": "/lucky-draw/static/js/main.cb6e28ea.chunk.js.map",
+    "runtime-main.js": "/lucky-draw/static/js/runtime-main.eb412ecd.js",
+    "runtime-main.js.map": "/lucky-draw/static/js/runtime-main.eb412ecd.js.map",
+    "static/js/2.cf06b390.chunk.js": "/lucky-draw/static/js/2.cf06b390.chunk.js",
+    "static/js/2.cf06b390.chunk.js.map": "/lucky-draw/static/js/2.cf06b390.chunk.js.map",
+    "static/js/3.94ce2578.chunk.js": "/lucky-draw/static/js/3.94ce2578.chunk.js",
+    "static/js/3.94ce2578.chunk.js.map": "/lucky-draw/static/js/3.94ce2578.chunk.js.map",
+    "index.html": "/lucky-draw/index.html",
+    "static/css/main.baefc8a9.chunk.css.map": "/lucky-draw/static/css/main.baefc8a9.chunk.css.map",
+    "static/js/2.cf06b390.chunk.js.LICENSE.txt": "/lucky-draw/static/js/2.cf06b390.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.eb412ecd.js",
+    "static/js/2.cf06b390.chunk.js",
+    "static/css/main.baefc8a9.chunk.css",
+    "static/js/main.cb6e28ea.chunk.js"
+  ]
+}
